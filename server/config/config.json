@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dbman",
+    "password": null,
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "dbman",
+    "password": null,
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "dbman",
+    "password": null,
+    "database": "todos-prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
